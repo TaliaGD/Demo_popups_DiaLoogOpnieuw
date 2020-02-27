@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo_popups_DiaLoogOpnieuw</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_btn_toast">Raise a Toast</string>
+    <string name="str_btn_simple">OPen something simple</string>
+    <string name="str_btn_flu">Catch something</string>
+    <string name="str_btn_date">Select your date of birth</string>
+</resources>
